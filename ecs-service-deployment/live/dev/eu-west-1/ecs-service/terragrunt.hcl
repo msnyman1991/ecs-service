@@ -7,5 +7,5 @@ include "region" {
 }
 
 include "env" {
-  path = "${get_terragrunt_dir()}/../../../_env/ecs-services.hcl"
+  path = "${get_terragrunt_dir()}/../../../_env/ecs-service.hcl"
 }
