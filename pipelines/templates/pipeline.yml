@@ -36,7 +36,7 @@ stages:
 
                 set -e 
                 # ls -al
-                # env | sort | grep SAND
+                # env | sort | grep DEV
                 # echo "[+] Pre assume role"
                 # env | sort | grep AWS | rev
                 # Connection to the aws account
