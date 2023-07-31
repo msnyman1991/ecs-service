@@ -51,7 +51,7 @@ EOF
 }
 
 locals {
-  env    = "sandbox"
+  env    = "dev"
   region = "eu-west-1"
   azs = [
     "eu-west-1a",
